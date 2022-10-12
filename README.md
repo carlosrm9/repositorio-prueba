@@ -6,10 +6,6 @@ Esto es un repositorio de prueba para aprender GitHub.
 - Paso 1: Clonar este repositorio.
 - Paso 2: Añade tus funciones y colabora en nuestro proyecto de investigación.
 
-## Autores
-- Carlos Ríos Monje
-
-
 ## Cómo citar este repositorio:
 
 	@misc{CarlosRM2022,
