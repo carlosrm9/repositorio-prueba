@@ -1,0 +1,12 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:8080
+functions:
+  flagdata:
+    lang: dockerfile
+    handler: ./flagdata
+    image: carlosriosm/flagdata
+    volume:
+    - /home/carlos/Documents/test/:/data/s
+
